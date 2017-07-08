@@ -1,0 +1,73 @@
+
+[
+  {
+    "Indicator":"Life expectancy at birth (years)",
+    "PUBLISH STATES":"Published",
+    "Year":1990,
+    "WHO region":"Europe",
+    "World Bank income group":"High-income",
+    "Country":"Andorra",
+    "Sex":"Both sexes",
+    "Display Value":77,
+    "Numeric":77.00000,
+    "Low":"",
+    "High":"",
+    "Comments":""
+  },
+  {
+    "Indicator":"Life expectancy at birth (years)",
+    "PUBLISH STATES":"Published",
+    "Year":2000,
+    "WHO region":"Europe",
+    "World Bank income group":"High-income",
+    "Country":"Andorra",
+    "Sex":"Both sexes",
+    "Display Value":80,
+    "Numeric":80.00000,
+    "Low":"",
+    "High":"",
+    "Comments":""
+  },
+  {
+    "Indicator":"Life expectancy at age 60 (years)",
+    "PUBLISH STATES":"Published",
+    "Year":2012,
+    "WHO region":"Europe",
+    "World Bank income group":"High-income",
+    "Country":"Andorra",
+    "Sex":"Female",
+    "Display Value":28,
+    "Numeric":28.00000,
+    "Low":"",
+    "High":"",
+    "Comments":""
+  },
+  {
+    "Indicator":"Life expectancy at age 60 (years)",
+    "PUBLISH STATES":"Published",
+    "Year":2000,
+    "WHO region":"Europe",
+    "World Bank income group":"High-income",
+    "Country":"Andorra",
+    "Sex":"Both sexes",
+    "Display Value":23,
+    "Numeric":23.00000,
+    "Low":"",
+    "High":"",
+    "Comments":""
+  },
+  {
+    "Indicator":"Life expectancy at birth (years)",
+    "PUBLISH STATES":"Published",
+    "Year":2012,
+    "WHO region":"Eastern Mediterranean",
+    "World Bank income group":"High-income",
+    "Country":"United Arab Emirates",
+    "Sex":"Female",
+    "Display Value":78,
+    "Numeric":78.00000,
+    "Low":"",
+    "High":"",
+    "Comments":""
+  }
+]
